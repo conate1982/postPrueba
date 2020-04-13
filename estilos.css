@@ -5,6 +5,12 @@ body {
 	margin: 0;
 	padding: 0;
 }
+#cabecera {
+	background: purple;
+	color: white;
+	margin: 0;
+	padding: 0.5em;
+}
 #container {
 	width: 70%;
 	text-align: left;
